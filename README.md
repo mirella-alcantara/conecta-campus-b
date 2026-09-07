@@ -6,7 +6,7 @@
 ## Conecta Campus
 Guia acadêmico de serviços, ambientes e recursos de acessibilidade.
 ## Situação do projeto
-Versão inicial em construção durante o primeiro semestre de ADS.
+Versão inicial em construção durante o primeiro semestre de ADS.\n
 Arquivo html basico, criado com strutura semântica.
 ## Autor
 Taiane Mirella Santos de Alcântara
