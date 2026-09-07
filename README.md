@@ -7,6 +7,10 @@
 Guia acadêmico de serviços, ambientes e recursos de acessibilidade.
 ## Situação do projeto
 Versão inicial em construção durante o primeiro semestre de ADS.
+<<<<<<< HEAD
+=======
+Arquivo html basico, criado com strutura semântica.
+>>>>>>> c32b10a (Criando Index.html e locais.html)
 ## Autor
 Taiane Mirella Santos de Alc
 
