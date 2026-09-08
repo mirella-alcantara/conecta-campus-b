@@ -1,29 +1,68 @@
-<!DOCTYPE html><!-- VERSÃO 5 -->
+<!DOCTYPE html>  <!-- VERSÃO 5 -->
 <!-- comentário -->
 <!-- 
 	- O DOCTYPE é o que chamamos de Document Type Definition.
 -->
 
+
+<link rel="stylesheet" href="css/style.css">
+
 <!-- Tag principal / root -->
-<html lang="pt-br">
+
+<html lang="pt-BR">
 	<!-- 1a tag filha / head -->
+
 	<head>
+
 		<meta charset="UTF-8">
-		<title>Conecta Campus</title>
+        <meta name="viewport" content="width=device-width, initial-scale-1.0">
+		<title>Conecta Campus | Início</title>
+        <link rel="stylesheet" href="css/style.css">
+        <script src="js/script.js" defer></script>
+
 	</head>
 	<!-- 2a tag filha / head -->
+
 	<body>
 		<header>
 			<h1>Conecta Campus</h1>
+
+            <nav aria-label="Navegação principal">
+
+                <ul class="menu">
+
+                    <li>
+                        <a aria-current="page" href="index.html">Início</a>
+                    </li>
+
+                    <li>
+                        <a href="locais.html">locais</a>
+                    </li>
+
+                    <li>
+                        <a href="detalhes.html">Acessibilidade</a>
+                    </li>
+
+                </ul>
+
+            </nav>
 		</header>
 		<main>
 			<section>
 				<h2>Informativo</h2>
 				<p>Estamos chegando em breve.</p>
+
+                <img
+                    src="img/biblioteca-campus.png"
+                    alt="Interior da biblioteca com estantes, mesas de estudo e corredor central"
+                    width="1536"
+                    height="1024"
+
+                >
 			</section>
 		</main>
 		<footer>
-			<p>&copy; 2026 - Conecta Campus / Todos os diretos reservados.
+			<p>&copy; 2026 - Conecta Campus / Todos os diretos reservados.</p>
 		</footer>
 	</body>
 </html>
